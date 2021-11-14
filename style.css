@@ -1,0 +1,23 @@
+.hotline,
+.number {
+  color: white;
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.mb-3 {
+  padding: 10px;
+  width: 1200px;
+  margin: 0px;
+  justify-content: center;
+}
+
+.form-select {
+  padding: 10px;
+  width: 1200px;
+  margin: 0px;
+  justify-content: center;
+}
